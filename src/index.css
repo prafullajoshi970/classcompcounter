@@ -1,0 +1,13 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter{
+  text-align: center;
+}
+
+button{
+  margin:5px;
+}
